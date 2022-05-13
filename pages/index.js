@@ -16,7 +16,6 @@ export default function Home() {
     <main>
       <CoinList/>
     </main>
-    <p>Hello!</p>
       
     </div>
   )
